@@ -34,6 +34,7 @@ var baseMultiLevelMenuData = [
         {content:'Skype', url:'skype:andy.bednoff?userinfo'},
         {content:'LinkedIn', url:'https://linkedin.com/in/andrcmdr'},
         {content:'GitHub', url:'https://github.com/andrcmdr'},
+        {content:'Twitter', url:'https://twitter.com/andrcmdr'},
     ]}
 ];
 
